@@ -1,4 +1,9 @@
-### Hi there 👋
+<!-- Copyright (c) 2024 EliteTV08 -->
+# Welcome 👋
+- ||👋|| Hey, I’m @EliteTV08
+- ||💻|| I’m interested in programming, no matter in which programming language!
+- ||🌱|| I’m currently learning C++
+##
 
 <!--
 **EliteTV08/elitetv08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
